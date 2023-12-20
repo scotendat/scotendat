@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+## I'm a Developer!!  
 
-I'm a Developer!!  
 🔭 I'm a frontend developer  
 🌱 I like to learn new knowledge  
 👯 Coding is cool!  
